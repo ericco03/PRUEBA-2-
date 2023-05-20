@@ -1,2 +1,4 @@
 # PRUEBA-2-
-esta es la segunda prueba del repositorio con README
+john duarte 
+
+esta es a segunda prueba de como hacer un repositorio y clonarlo  ami repositorio local 
